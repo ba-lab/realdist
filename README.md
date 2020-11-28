@@ -19,7 +19,7 @@ wget https://github.com/ba-lab/realdist/archive/v?.tar.gz
 ```
 Wget the model
 ```
-wget http://deep.cs.umsl.edu/realdist/training-experiments/jobs_pisces_cath.before_CASP14/
+wget http://deep.cs.umsl.edu/realdist/training-experiments/jobs_pisces_cath.before_CASP14/model-05-28-12-44.hdf5
 ```
 Make prediction
 ```
