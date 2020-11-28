@@ -4,7 +4,7 @@ Protein structure prediction continues to stand as an unsolved problem in bioinf
 
 ![](figure6_blockdiagram.png)
 
-## Dependencies
+## Dependencies (if you already have an alignment)
 - [x] Tensorflow/Keras
 - [x] CCMpred
 - [x] Alnstats (from Metapsicov)
