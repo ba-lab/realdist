@@ -11,7 +11,7 @@ If you already have an alignment (.aln file), following are the dependencies:
 - [x] Alnstats (from Metapsicov)
 - [x] Freecontact
 
-## How to predict
+## How to predict?
 
 Get the realdist package (with all scripts and test files)
 ```
