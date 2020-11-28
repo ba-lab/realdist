@@ -13,12 +13,16 @@ If you already have an alignment (.aln file), following are the dependencies:
 
 ## How to predict
 
+Get the realdist package (with all scripts and test files)
 ```
-# Get the realdist package (with all scripts and test files)
 wget https://github.com/ba-lab/realdist/archive/v?.tar.gz
-# wget the model
+```
+Wget the model
+```
 wget http://deep.cs.umsl.edu/realdist/training-experiments/jobs_pisces_cath.before_CASP14/
-# Make prediction
+```
+Make prediction
+```
 ./realdist-with-aln.sh ./model-05-28-12-44.hdf5 ./test/1guuA.fasta ./test/1guuA.aln ./test/output/
 ```
 
