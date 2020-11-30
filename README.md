@@ -26,5 +26,9 @@ Make prediction
 ./realdist-with-aln.sh ./model-05-28-12-44.hdf5 ./test/1guuA.fasta ./test/1guuA.aln ./test/output/
 ```
 
+## Full manuscript
+
+https://www.biorxiv.org/content/10.1101/2020.11.28.402214v1
+
 ## Datasets/Predictions
 http://deep.cs.umsl.edu/realdist/
